@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GitHub-inspired palette (light). -->
+    <color name="primary">#0969DA</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#DDF4FF</color>
+    <color name="on_primary_container">#0A3069</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1F2328</color>
+    <color name="surface_variant">#F6F8FA</color>
+    <color name="on_surface_variant">#59636E</color>
+    <color name="outline">#D1D9E0</color>
+    <color name="background">#FFFFFF</color>
+
+    <!-- WebView canvas; matches GitHub's light/dark backgrounds to avoid flashes. -->
+    <color name="webview_background">#FFFFFF</color>
+
+    <!-- Brand surfaces used by the system splash screen and adaptive icon. -->
+    <color name="splash_background">#0D1117</color>
+    <color name="ic_launcher_background">#0D1117</color>
+</resources>

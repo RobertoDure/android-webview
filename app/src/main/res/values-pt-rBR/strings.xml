@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Não foi possível carregar o GitHub</string>
+    <string name="error_offline_message">Verifique sua conexão com a internet e tente novamente.</string>
+    <string name="error_generic_message">A página não pôde ser carregada. Tente novamente.</string>
+    <string name="error_retry">Tentar novamente</string>
+    <string name="error_open_in_browser">Abrir no navegador</string>
+    <string name="error_no_app_for_link">Nenhum app disponível para abrir este link</string>
+    <string name="error_no_file_picker">Nenhum seletor de arquivos disponível</string>
+    <string name="error_renderer_crashed">A página parou de responder. Reiniciando…</string>
+
+    <string name="download_started">Download iniciado</string>
+    <string name="download_failed">Não foi possível iniciar o download</string>
+</resources>
